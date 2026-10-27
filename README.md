@@ -147,7 +147,7 @@ text
 
 happ_to_v2ray_v2.py   # Single-file application
 README.md             # This file
-LICENSE               # MIT license
+LICENSE               # GNU license
 
 Contributing
 
@@ -161,7 +161,7 @@ Issues and pull requests are welcome. When reporting a conversion problem, pleas
 
 License
 
-Released under the MIT License. See LICENSE for details.
+Released under the GNU License. See LICENSE for details.
 Disclaimer
 
 This tool is intended for legitimate use with your own proxy servers and configurations. Users are responsible for complying with local laws and the terms of service of any subscription providers they use.
