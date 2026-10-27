@@ -2,12 +2,6 @@ Happ Config Converter
 
 Convert Happ JSON configs into share-links for v2rayNG, NekoBox, Hiddify, and other clients — no dependencies, just Python + Tkinter.
 
-https://img.shields.io/badge/python-3.9%2B-blue
-https://img.shields.io/badge/license-MIT-green
-https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey
-https://img.shields.io/badge/dependencies-none-brightgreen
-Overview
-
 Happ Config Converter is a standalone desktop application that reads JSON configuration files exported from Happ (and compatible Xray-based clients) and generates properly formatted share-links. The output can be pasted directly into any client that supports the corresponding URI scheme.
 
 The tool is written entirely with Python's standard library — no pip install required.
